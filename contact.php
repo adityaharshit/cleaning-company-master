@@ -63,7 +63,7 @@
 										<span class="fa fa-phone"></span>
 									</div>
 									<div class="text">
-										<p><span>Phone:</span> <a href="tel:// +91 9108763869">+91 9108763869</a></p>
+										<p><span>Phone:</span> <a href="tel:+919108763869">+91 9108763869</a></p>
 									</div>
 								</div>
 							</div>
@@ -73,7 +73,7 @@
 										<span class="fa fa-paper-plane"></span>
 									</div>
 									<div class="text">
-										<p><span>Email:</span> <a href="sudhanshu@gleaming.in">sudhanshu@gleaming.in</a>
+										<p><span>Email:</span> <a href="mailto:sudhanshu@gleaming.in">sudhanshu@gleaming.in</a>
 										</p>
 									</div>
 								</div>
@@ -84,7 +84,7 @@
 										<span class="fa fa-globe"></span>
 									</div>
 									<div class="text">
-										<p><span>Website</span> <a href="#">www.gleaming.in</a></p>
+										<p><span>Website</span> <a href="index.html">www.gleaming.in</a></p>
 									</div>
 								</div>
 							</div>

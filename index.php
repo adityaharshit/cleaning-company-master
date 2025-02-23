@@ -9,7 +9,10 @@
 	<link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap" rel="stylesheet">
 
 	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
-
+	<link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
+<link rel="manifest" href="site.webmanifest">
 	<link rel="stylesheet" href="css/animate.css">
 
 	<link rel="stylesheet" href="css/owl.carousel.min.css">
@@ -92,22 +95,7 @@
 				</div>
 			</div>
 		</div>
-		<!-- 
-  <div class="hero-wrap js-fullheight" style="background-image: url('images/tt.jpg');"
-		data-stellar-background-ratio="0.5">
-		<div class="overlay"></div>
-		<div class="container">
-			<div class="row no-gutters slider-text js-fullheight align-items-center justify-content-start"
-				data-scrollax-parent="true">
-				<div class="col-md-6 ftco-animate">
-					<h2 class="subheading">Leave the cleaning chores to us</h2>
-					<h1 class="mb-4">Let us do the dirty work, so you don't have to.</h1>
-					<p><a href="about.html" class="btn btn-primary mr-md-4 py-2 px-4">Learn more <span
-								class="ion-ios-arrow-forward"></span></a></p>
-				</div>
-			</div>
-		</div>
-	</div> -->
+		
 
 		<!-- Controls -->
 		<a class="carousel-control-prev" href="#heroCarousel" role="button" data-slide="prev">
@@ -399,8 +387,8 @@
 		<div class="container">
 			<div class="row justify-content-center pb-5 mb-3">
 				<div class="col-md-7 heading-section heading-section-white text-center ftco-animate">
-					<span class="subheading">Testimonies</span>
-					<h2>Happy Customer</h2>
+					<!-- <span class="subheading">Testimonies</span> -->
+					<h2>Why Choose Us?</h2>
 				</div>
 			</div>
 			<div class="row ftco-animate">
@@ -408,86 +396,69 @@
 					<div class="carousel-testimony owl-carousel ftco-owl">
 						<div class="item">
 							<div class="testimony-wrap py-4">
-								<div class="icon d-flex align-items-center justify-content-center"><span
-										class="fa fa-quote-right"></span></div>
+								<!-- <div class="icon d-flex align-items-center justify-content-center"><span
+										class="fa fa-quote-right"></span></div> -->
 								<div class="text">
 									<div class="d-flex align-items-center mb-4">
-										<div class="user-img" style="background-image: url(images/person_1.jpg)"></div>
+										<div class="user-img" style="background-image: url(images/conductor.png)"></div>
 										<div class="pl-3">
-											<p class="name">Roger Scott</p>
-											<span class="position">Marketing Manager</span>
+											<p class="name">Experienced and Trained Staff</p>
+											<!-- <span class="position">Marketing Manager</span> -->
 										</div>
 									</div>
-									<p class="mb-1">Far far away, behind the word mountains, far from the countries
-										Vokalia and Consonantia, there live the blind texts.</p>
+									<p class="mb-1">Our team is background-checked and trained in the best cleaning practices.</p>
 								</div>
 							</div>
 						</div>
 						<div class="item">
 							<div class="testimony-wrap py-4">
-								<div class="icon d-flex align-items-center justify-content-center"><span
-										class="fa fa-quote-right"></span></div>
 								<div class="text">
 									<div class="d-flex align-items-center mb-4">
-										<div class="user-img" style="background-image: url(images/person_2.jpg)"></div>
+									<div class="user-img" style="background-image: url(images/save-the-world.png)"></div>
 										<div class="pl-3">
-											<p class="name">Roger Scott</p>
-											<span class="position">Marketing Manager</span>
+											<p class="name">Eco-Friendly Products</p>
 										</div>
 									</div>
-									<p class="mb-1">Far far away, behind the word mountains, far from the countries
-										Vokalia and Consonantia, there live the blind texts.</p>
+									<p class="mb-1">We use safe and environmentally friendly cleaning solutions.</p>
 								</div>
 							</div>
 						</div>
 						<div class="item">
 							<div class="testimony-wrap py-4">
-								<div class="icon d-flex align-items-center justify-content-center"><span
-										class="fa fa-quote-right"></span></div>
 								<div class="text">
 									<div class="d-flex align-items-center mb-4">
-										<div class="user-img" style="background-image: url(images/person_3.jpg)"></div>
+									<div class="user-img" style="background-image: url(images/work-schedule.png)"></div>
 										<div class="pl-3">
-											<p class="name">Roger Scott</p>
-											<span class="position">Marketing Manager</span>
+											<p class="name">Flexible Scheduling</p>
 										</div>
 									</div>
-									<p class="mb-1">Far far away, behind the word mountains, far from the countries
-										Vokalia and Consonantia, there live the blind texts.</p>
+									<p class="mb-1">We work around your schedule for your convenience.</p>
 								</div>
 							</div>
 						</div>
 						<div class="item">
 							<div class="testimony-wrap py-4">
-								<div class="icon d-flex align-items-center justify-content-center"><span
-										class="fa fa-quote-right"></span></div>
 								<div class="text">
 									<div class="d-flex align-items-center mb-4">
-										<div class="user-img" style="background-image: url(images/person_1.jpg)"></div>
+									<div class="user-img" style="background-image: url(images/affordable.png)"></div>
 										<div class="pl-3">
-											<p class="name">Roger Scott</p>
-											<span class="position">Marketing Manager</span>
+											<p class="name">Affordable Pricing</p>
 										</div>
 									</div>
-									<p class="mb-1">Far far away, behind the word mountains, far from the countries
-										Vokalia and Consonantia, there live the blind texts.</p>
+									<p class="mb-1">Competitive rates without compromising on quality.</p>
 								</div>
 							</div>
 						</div>
 						<div class="item">
 							<div class="testimony-wrap py-4">
-								<div class="icon d-flex align-items-center justify-content-center"><span
-										class="fa fa-quote-right"></span></div>
 								<div class="text">
 									<div class="d-flex align-items-center mb-4">
-										<div class="user-img" style="background-image: url(images/person_2.jpg)"></div>
+									<div class="user-img" style="background-image: url(images/customer-experience.png)"></div>
 										<div class="pl-3">
-											<p class="name">Roger Scott</p>
-											<span class="position">Marketing Manager</span>
+											<p class="name">Satisfaction Guaranteed</p>
 										</div>
 									</div>
-									<p class="mb-1">Far far away, behind the word mountains, far from the countries
-										Vokalia and Consonantia, there live the blind texts.</p>
+									<p class="mb-1">We're committed to your complete satisfaction.</p>
 								</div>
 							</div>
 						</div>
@@ -508,52 +479,40 @@
 			<div class="row">
 				<div class="col-md-6 col-lg-3 ftco-animate">
 					<div class="work img d-flex align-items-center" style="background-image: url(images/home.png);">
-						<a href="images/home.png"
-							class="icon image-popup d-flex justify-content-center align-items-center">
-							<span class="fa fa-expand"></span>
-						</a>
-						<div class="desc w-100 px-4 text-center pt-5 mt-5">
+						<a href="images/home.png"></a>
+						<div class="desc w-100 px-4 text-center">
 							<div class="text w-100 mb-3 mt-4">
-								<h2><a href="work-single.html">House Cleaning</a></h2>
+								<h2><p>House Cleaning</p></h2>
 							</div>
 						</div>
 					</div>
 				</div>
 				<div class="col-md-6 col-lg-3 ftco-animate">
 					<div class="work img d-flex align-items-center" style="background-image: url(images/sofa.png);">
-						<a href="images/sofa.png"
-							class="icon image-popup d-flex justify-content-center align-items-center">
-							<span class="fa fa-expand"></span>
-						</a>
-						<div class="desc w-100 px-4 text-center pt-5 mt-5">
+						<a href="images/sofa.png"></a>
+						<div class="desc w-100 px-4 text-center">
 							<div class="text w-100 mb-3 mt-4">
-								<h2><a href="work-single.html">Sofa Cleaning</a></h2>
+								<h2><p>Sofa Cleaning</p></h2>
 							</div>
 						</div>
 					</div>
 				</div>
 				<div class="col-md-6 col-lg-3 ftco-animate">
 					<div class="work img d-flex align-items-center" style="background-image: url(images/work-3.jpg);">
-						<a href="images/work-3.jpg"
-							class="icon image-popup d-flex justify-content-center align-items-center">
-							<span class="fa fa-expand"></span>
-						</a>
-						<div class="desc w-100 px-4 text-center pt-5 mt-5">
+						<a href="images/work-3.jpg"></a>
+						<div class="desc w-100 px-4 text-center">
 							<div class="text w-100 mb-3 mt-4">
-								<h2><a href="work-single.html">Window Cleaning</a></h2>
+								<h2><p>Window Cleaning</p></h2>
 							</div>
 						</div>
 					</div>
 				</div>
 				<div class="col-md-6 col-lg-3 ftco-animate">
 					<div class="work img d-flex align-items-center" style="background-image: url(images/office.png);">
-						<a href="images/office.png"
-							class="icon image-popup d-flex justify-content-center align-items-center">
-							<span class="fa fa-expand"></span>
-						</a>
-						<div class="desc w-100 px-4 text-center pt-5 mt-5">
+						<a href="images/office.png"></a>
+						<div class="desc w-100 px-4 text-center">
 							<div class="text w-100 mb-3 mt-4">
-								<h2><a href="work-single.html">Office Cleaning</a></h2>
+								<h2><p>Office Cleaning</p></h2>
 							</div>
 						</div>
 					</div>
@@ -561,52 +520,41 @@
 
 				<div class="col-md-6 col-lg-3 ftco-animate">
 					<div class="work img d-flex align-items-center" style="background-image: url(images/carpet.png);">
-						<a href="images/carpet.png"
-							class="icon image-popup d-flex justify-content-center align-items-center">
-							<span class="fa fa-expand"></span>
-						</a>
-						<div class="desc w-100 px-4 text-center pt-5 mt-5">
+						<a href="images/carpet.png"></a>
+						<div class="desc w-100 px-4 text-center">
 							<div class="text w-100 mb-3 mt-4">
-								<h2><a href="work-single.html">Carpet Cleaning</a></h2>
+								<h2><p>Carpet Cleaning</p></h2>
 							</div>
 						</div>
 					</div>
 				</div>
 				<div class="col-md-6 col-lg-3 ftco-animate">
 					<div class="work img d-flex align-items-center" style="background-image: url(images/deep.png);">
-						<a href="images/deep.png"
-							class="icon image-popup d-flex justify-content-center align-items-center">
-							<span class="fa fa-expand"></span>
-						</a>
-						<div class="desc w-100 px-4 text-center pt-5 mt-5">
+						<a href="images/deep.png"></a>
+						<div class="desc w-100 px-4 text-center">
 							<div class="text w-100 mb-3 mt-4">
-								<h2><a href="work-single.html">Office Deep Cleaning</a></h2>
+								<h2><p>Office Deep Cleaning</p></h2>
 							</div>
 						</div>
 					</div>
 				</div>
 				<div class="col-md-6 col-lg-3 ftco-animate">
 					<div class="work img d-flex align-items-center" style="background-image: url(images/bathroom.jpg);">
-						<a href="images/bathroom.jpg"
-							class="icon image-popup d-flex justify-content-center align-items-center">
-							<span class="fa fa-expand"></span>
-						</a>
-						<div class="desc w-100 px-4 text-center pt-5 mt-5">
+						<a href="images/bathroom.jpg"></a>
+						<div class="desc w-100 px-4 text-center">
 							<div class="text w-100 mb-3 mt-4">
-								<h2><a href="work-single.html">Bathroom Cleaning</a></h2>
+								<h2><p>Bathroom Cleaning</p></h2>
 							</div>
 						</div>
 					</div>
 				</div>
 				<div class="col-md-6 col-lg-3 ftco-animate">
 					<div class="work img d-flex align-items-center" style="background-image: url(images/chair.jpg);">
-						<a href="images/chair.jpg"
-							class="icon image-popup d-flex justify-content-center align-items-center">
-							<span class="fa fa-expand"></span>
+						<a href="images/chair.jpg">
 						</a>
-						<div class="desc w-100 px-4 text-center pt-5 mt-5">
+						<div class="desc w-100 px-4 text-center">
 							<div class="text w-100 mb-3 mt-4">
-								<h2><a href="work-single.html">Chair Cleaning</a></h2>
+								<h2><p>Chair Cleaning</p></h2>
 							</div>
 						</div>
 					</div>
@@ -661,7 +609,7 @@
 					</div>
 				</div>
 				<div class="col-md-6 col-lg-3 ftco-animate">
-					<div class="block-7 active">
+					<div class="block-7">
 						<div class="text-center">
 							<div class="icon d-flex align-items-center justify-content-center"><span
 									class="fa flaticon-vacuum-cleaner"></span></div>
@@ -688,9 +636,9 @@
 							<h4 class="heading-2">MATTRESS DEEP CLEANING</h4>
 							<span class="price"><sup></sup> <span class="number"></span></span>
 
-							<ul class="pricing-text mb-5">
-								<li><span class="fa fa-check mr-2"></span>SINGLE METTRESS - ₹599</li>
-								<li><span class="fa fa-check mr-2"></span>SINGLE METTRESS 2 - ₹999</li>
+							<ul class="pricing-text mb-4">
+								<li><span class="fa fa-check mr-2"></span>SINGLE MATTRESS - ₹599</li>
+								<li><span class="fa fa-check mr-2"></span>SINGLE MATTRESS 2 - ₹999</li>
 								<li><span class="fa fa-check mr-2"></span>QUEEN SIZE - ₹699</li>
 								<li><span class="fa fa-check mr-2"></span>QUEEN SIZE 2 - ₹1299</li>
 

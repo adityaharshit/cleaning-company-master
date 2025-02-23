@@ -11009,7 +11009,7 @@ h5,
   background-position: top center;
   position: relative;
 }
-@media (max-width: 1199.98px) {
+@media (max-width: 750px) {
   .ftco-intro {
     background-position: center center !important;
   }
@@ -11523,7 +11523,7 @@ h5,
   color: #fff;
 }
 .work:hover:after {
-  opacity: 0.8;
+  opacity: 0.6;
 }
 .work:hover .icon {
   opacity: 1;
@@ -12084,6 +12084,7 @@ textarea.form-control {
   position: relative;
   padding: 0 20px;
   font-size: 16px;
+  min-height:240px;
   color: rgba(255, 255, 255, 0.8);
   border-radius: 5px;
   background: #2b98f0;
@@ -12117,10 +12118,6 @@ textarea.form-control {
   width: 70px;
   height: 70px;
   position: relative;
-  -webkit-border-radius: 50%;
-  -moz-border-radius: 50%;
-  -ms-border-radius: 50%;
-  border-radius: 50%;
 }
 .testimony-wrap .name {
   font-weight: 500;
